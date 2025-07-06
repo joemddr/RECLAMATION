@@ -1,0 +1,75 @@
+# RECLAMATION
+
+**Author:** Joe Pressnell ([@joemddr](https://github.com/joemddr))
+**Email:** texasmddr@gmail.com
+**Date of Origin:** March 2, 1982
+**Repository Purpose:** Public Authorship Assertion & IP Reclamation
+
+This repository formally reclaims and asserts **original authorship and intellectual ownership** of the following projects and technical contributions developed by **Joe Pressnell**:
+
+### 🔧 Core Innovations:
+
+- **J1939AI Protocol** 
+  AI-driven diagnostic automation layered over J1939/CAN diesel communication systems.
+
+- **CategoryAI** 
+  A semantic AI classification engine for contextual decision-making and signal sorting.
+
+- **DieselEye** 
+  Real-time visual diagnostic framework for diesel systems using computer vision and embedded inference.
+
+- **Breach_Coin** 
+  A blockchain-linked architecture bridging diagnostics, decentralized security, and highway autonomy.
+
+### 🔍 Additional Contributions:
+
+- CAN bus diagnostic emulation platforms 
+- Diesel ECU signal simulators 
+- Intelligent highway/vehicle interfaces 
+- Embedded-to-cloud diagnostic bridges 
+- Early predictive maintenance engines
+
+---
+
+## 🛡️ Purpose of This Repository
+
+This repo acts as a **formal, public declaration** of authorship and ownership:
+
+1. **Time-stamped Proof of Contribution** 
+   Markdown documentation, commits, and future code establish verifiable authorship under GitHub account [@joemddr](https://github.com/joemddr).
+
+2. **Reclamation of Identity and IP** 
+   Following prior account compromise, this repository asserts continuity of authorship under Joe Pressnell.
+
+3. **Permanent Development Archive** 
+   Future work, updates, and restored IP will be documented and pushed here going forward.
+
+---
+
+## ⚖️ Attribution & Use Notice
+
+Any usage, reference, fork, or redistribution of this repository or its components **must credit Joe Pressnell** as the original author.
+
+Unauthorized use or misrepresentation will be treated as a breach of intellectual property rights.
+
+---
+
+## 🔗 Signature & Verification
+
+- **GPG Key/Signature:** _To be added_ 
+- **Public Record Mirror:** _Consider IPFS or blockchain signature (optional)_ 
+- **Identity Verification:** Email: texasmddr@gmail.com | GitHub: [@joemddr](https://github.com/joemddr)
+
+---
+
+## 📂 Repository Layout
+
+```plaintext
+/RECLAMATION
+├── README.md          ← This file
+├── CLAIM.md           ← Signed authorship declaration (coming soon)
+├── CategoryAI/        ← Core logic and notes
+├── J1939AI/           ← CAN diagnostic frameworks
+├── DieselEye/         ← Visual inference & real-time diagnostic layers
+├── Breach_Coin/       ← Blockchain integration architecture
+└── legacy_docs/       ← Archived notes, diagrams, drafts
